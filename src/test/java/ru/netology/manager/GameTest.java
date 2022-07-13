@@ -13,7 +13,7 @@ public class GameTest {
     Player player3 = new Player(12, "Kurt", 3);
     Player player4 = new Player(13, "Marta", 2);
     Player player5 = new Player(14, "Kolins", 4);
-    Player player6 = new Player(15, "Klod", 6);
+    Player player6 = new Player(15, "Klod", 7);
 
     @Test
     public void shouldNotFoundExceptionPlayers() {
